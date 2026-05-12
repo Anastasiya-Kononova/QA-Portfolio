@@ -72,7 +72,6 @@
 
 ### Контакты
 
-*   **LinkedIn:** [Ссылка на ваш профиль LinkedIn]
 *   **Email:** anastasiyakononova98@yandex.ru
 *   **GitHub:** https://github.com/Anastasiya-Kononova
 
